@@ -5,7 +5,14 @@
 - Interested in **Data Collecting, Data Processing, Machine Learning, Time Series Forecasting, and Data Vizualization**
 - Currently working with **Python, SQL, and Data Analysis**
 
-# Tech Stack
+## Core Competencies
+- Time Series Forecasting
+- Machine Learning Modeling
+- Data Engineering & Data Pipelines
+- Data Analysis & Visualization
+- Financial Data Analysis
+---
+# 👨🏻‍💻 Tech Stack
 ## Programming Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -13,6 +20,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ## Data Analysis & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +48,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 ---
-# My Projects
+# 📂 My Projects
 
 ## LQ45 Stock Data Pipeline
 Building a data pipeline to collect, process, and store historical stock data from companies listed in the **LQ45 index** for further financial analysis.
@@ -82,8 +90,10 @@ Generating **synthetic datasets** to preserve data privacy while maintaining sta
 🔗 Repository  
 https://github.com/yanardika/synthetic-data-for-data-privacy
 
-# Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yanardika)
+---
+
+# 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yandik)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yan.dikk)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanandhinayaardika@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yanardika)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yan.dikk)
