@@ -64,12 +64,11 @@ A data pipeline designed to collect and process historical stock data for **Bank
 https://github.com/yanardika/bbca-stock-data-pipeline
 
 
-## Food Price Index Time Series Forecasting
-Forecasting food price index data using **time series forecasting models** to analyze trends and predict future price movements.
+## Indonesian Credit Scoring Prediction
+Predicting loan default risk using **machine learning classification models** to analyze customer behavior and support credit decision-making.
 
 🔗 Repository  
-https://github.com/yanardika/foodpriceindex-time-series-forecasting
-
+https://github.com/yanardika/indonesian-credit-scoring-model
 
 ## CAD Prediction and Patient Clustering
 A machine learning project that predicts **Coronary Artery Disease (CAD)** risk and performs **patient clustering** to identify patterns in medical data.
