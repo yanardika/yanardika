@@ -1,5 +1,5 @@
 <img src="img/banner.png" alt="banner" width="100%">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Time+Series+Forecasting;Data+Engineering;Data+Collecting;Data+Processing;Data+Visualization&center=true&width=1000&height=50&color=FFFFFF">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning;Time+Series+Forecasting;Data+Engineering;Data+Collecting;Data+Processing;Data+Visualization;Data+Warehousing;Computer+Vision&center=true&width=1000&height=50&color=FFFFFF">
 
 # About Me
 - Interested in **Data Collecting, Data Processing, Machine Learning, Time Series Forecasting, and Data Vizualization**
