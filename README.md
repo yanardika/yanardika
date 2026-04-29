@@ -40,6 +40,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ## Business Intelligence
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -50,44 +51,41 @@
 ---
 # 📂 My Projects
 
+## Sales Revenue Dashboard with Power BI
+An interactive **Power BI** dashboard analyzing global sales performance from 2016 to 2017, covering revenue, COGS, profit, and sales distribution across products, countries, and retailer types.
+> **Key Focus:** Data Visualization, Business Intelligence, Sales Analysis.
+
+> [🔗 View Project](https://github.com/yanardika/sales-revenue-dashboard)
+
+## ChurnSense | E-Commerce Customer Churn Prediction Aplication
+A machine learning web application that predicts whether an e-commerce customer will churn. Built as an end-to-end data science project, from exploratory data analysis to model deployment with a modern **Flask** web interface.
+> **Key Focus:** Machine Learning, Flask, End-to-End Deployment.
+
+> [🔗 View Project](https://github.com/yanardika/ecommerce-churn-prediction)
+
+## Face Anti-Spoofing Classifier
+A production-ready deep learning system for detecting face presentation attacks. The pipeline classifies facial images into six categories using a **CLIP-pretrained Vision Transformer** with a fully automated, self-correcting training strategy.
+> **Key Focus:** Deep Learning, Computer Vision, Vision Transformer (ViT).
+
+> [🔗 View Project](https://github.com/yanardika/face-anti-spoofing)
+
+## Food Price Index Time-Series Forecasting
+A statistical time-series forecasting project analyzing Food Price Index data using stationarity testing, **Box-Cox transformation, ARIMA modeling**, and residual diagnostics.
+> **Key Focus:** Time-Series Analysis, Applied Statistics, Econometrics.
+
+> [🔗 View Project](https://github.com/yanardika/foodpriceindex-time-series-forecasting )
+
 ## LQ45 Stock Data Pipeline
-Building a data pipeline to collect, process, and store historical stock data from companies listed in the **LQ45 index** for further financial analysis.
+End-to-end data pipeline for collecting, processing, and storing Indonesian **LQ45 stock market data**. Automates retrieval of historical price data, technical indicators, and financial statements into a cloud database.
+> **Key Focus:** Data Engineering, Automation, Financial Analytics.
 
-🔗 Repository  
-https://github.com/yanardika/lq45-stock-data-pipeline
+> [🔗 View Project](https://github.com/yanardika/lq45-stock-data-pipeline)
 
+## Coronary Artery Disease ML Analysis
+A machine learning project applying supervised and unsupervised learning techniques on coronary artery disease (CAD) datasets, including **Classification** for prediction and **K-Means Clustering** for patient segmentation.
+> **Key Focus:** Healthcare Analytics, Clustering, Supervised Learning.
 
-## BBCA Stock Data Pipeline
-A data pipeline designed to collect and process historical stock data for **Bank Central Asia (BBCA)** to support financial data analysis and modeling.
-
-🔗 Repository  
-https://github.com/yanardika/bbca-stock-data-pipeline
-
-
-## Indonesian Credit Scoring Prediction
-Predicting loan default risk using **machine learning classification models** to analyze customer behavior and support credit decision-making.
-
-🔗 Repository  
-https://github.com/yanardika/indonesian-credit-scoring-model
-
-## CAD Prediction and Patient Clustering
-A machine learning project that predicts **Coronary Artery Disease (CAD)** risk and performs **patient clustering** to identify patterns in medical data.
-
-🔗 Repository  
-https://github.com/yanardika/cad-prediction-and-patient-clustering
-
-
-## Mamdani vs Sugeno Fuzzy System
-A comparative study between **Mamdani and Sugeno fuzzy inference systems** to analyze their performance in decision-making and prediction tasks.
-
-🔗 Repository  
-https://github.com/yanardika/mamdani-vs-sugeno-fuzzy-system
-
-## Synthetic Data for Data Privacy
-Generating **synthetic datasets** to preserve data privacy while maintaining statistical properties for machine learning and data analysis.
-
-🔗 Repository  
-https://github.com/yanardika/synthetic-data-for-data-privacy
+> [🔗 View Project](https://github.com/yanardika/cad-prediction-and-patient-clustering)
 
 ---
 
