@@ -1,4 +1,4 @@
-<img src="img/banner.png" alt="banner" width="100%">
+<img src="img/banner.png" alt="banner 3 (1).png" width="100%">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning;Time+Series+Forecasting;Data+Engineering;Data+Collecting;Data+Processing;Data+Visualization;Data+Warehousing;Computer+Vision&center=true&width=1000&height=50&color=FFFFFF">
 
 # About Me
